@@ -1,0 +1,7 @@
+.vscode/
+*.csv
+*.txt
+*test.ipynb
+*test.py
+.env
+repositries*.xlsx
